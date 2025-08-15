@@ -41,11 +41,11 @@
     "superstruct": "^2.0.2",
     "ufo": "^1.6.1",
     "valibot": "^1.1.0",
-    "workers-ai-provider": "^0.7.2",
+    "workers-ai-provider": "^0.7.5",
     "yup": "^1.7.0",
     "zod": "^4.0.17"
   },
   "devDependencies": {
-    "wrangler": "^4.28.1"
+    "wrangler": "^4.30.0"
   }
 }
